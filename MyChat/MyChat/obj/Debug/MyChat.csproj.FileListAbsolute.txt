@@ -1,0 +1,17 @@
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Debug\MyChat.exe
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Debug\MaterialSkin.dll
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Debug\MyChat.exe.config
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.ChatWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.FriendTag.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.InfoWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.LoginWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.SendBox.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.cache
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.csproj.CoreCompileInputs.cache
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.csproj.CopyComplete
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.exe
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.pdb
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Debug\MyChat.pdb
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.csprojAssemblyReference.cache
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Debug\MyChat.EmojiBox.resources

@@ -1,0 +1,16 @@
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Release\MyChat.exe.config
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Release\MyChat.exe
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Release\MyChat.pdb
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\bin\Release\MaterialSkin.dll
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.ChatWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.EmojiBox.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.FriendTag.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.InfoWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.LoginWindow.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.Properties.Resources.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.SendBox.resources
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.csproj.GenerateResource.cache
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.csproj.CoreCompileInputs.cache
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.csproj.CopyComplete
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.exe
+D:\Document\2018秋季学期\计算机网络及应用\BigHMW\MyChat\MyChat\obj\Release\MyChat.pdb
